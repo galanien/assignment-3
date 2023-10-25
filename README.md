@@ -18,9 +18,3 @@ To compile and run the code, follow these steps:
 2. Clone this repository to your local machine.
 3. Compile the code using the following command:
 
-
-## Additional Information
-
-- The program utilizes the `Random` class to generate random values for prices, weights, and specific attributes of the devices.
-- It demonstrates the use of inheritance in Java to create a class hierarchy for different types of devices.
-- The program calculates the total price and total weight of all devices and displays the results.
